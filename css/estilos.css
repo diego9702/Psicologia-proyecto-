@@ -1,0 +1,52 @@
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+    border: solid white;
+}
+
+.texto1{
+    padding: 30px;
+    border: solid;
+
+}
+
+.texto2{
+    padding: 30px;
+    border: solid;
+}
+
+*{
+    background: aqua;
+}
+
+.parrafo{
+    text-align: center;
+
+}
+
+.txed{
+    padding: 30px;
+    text-align: left;
+    border: solid;
+}
+.video{
+    align-content: center;
+}
+
+.parrafoenf{
+    padding: 30px;
+    border: solid;
+
+}
+
+.trastornos{
+    padding: 50px;
+    list-style: circle;
+    text-decoration: overline;
+}
+
+.imagen{
+    text-align: center;
+    display: inline-flex;
+    width: 100%;
+}

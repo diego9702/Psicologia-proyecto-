@@ -1,0 +1,1 @@
+alert("bienvenidos a esta pagina donde hablaremos de educacion, psicologia y enfermedades mentales que acarrean una gran problematica para la salud mental en el mundo, espero los disfrutes.")
